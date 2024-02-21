@@ -37,7 +37,7 @@ public class TestUserprofile {
         }
         
         if(match){
-           Userprofile user1 = new Userprofile(user_id,genre_selected );
+           //Userprofile user1 = new Userprofile(user_id,genre_selected );
            System.out.println("userProfile is created.");
         }else{
            System.out.println("useProfile not created."); 
